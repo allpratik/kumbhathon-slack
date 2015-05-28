@@ -13,10 +13,11 @@ body {
 </style>
 
 <div class="wrapper">
-  <h1>An invite request to <%= settings.team_name %> is <%= @result ? 'Success' : 'Failed' %>.</h1>
+  <h1>An invite request to <%= settings.team_name %>  <%= @result ? 'Succeed. Congratulations!!!' : 'Failed. Please Try Again!' %>.</h1>
   <% if @result %>
   <p>
-    Please, check your email(<%= @email %>).
-  </p>
+    Please, check your email (<%= @email %>) and accept the invitation. <br> <br>
+    For any type of help, please mail me at email@khandagale.com
+  </p> 
   <% end %>
 </div>
