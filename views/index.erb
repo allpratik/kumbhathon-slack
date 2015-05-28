@@ -84,7 +84,7 @@ input {
 <form action="/invite" method="post" name="form for slack invitation request">
   <%= Rack::Csrf.tag(env) %>
   <div class="header">
-     <p>Join to <br/><%= settings.team_name %></p>
+     <p>Join  <br/><%= settings.team_name %></p>
   </div>
   <div class="description">
     <p><%= settings.team_desc %></p>
