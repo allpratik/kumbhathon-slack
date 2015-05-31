@@ -44,11 +44,6 @@ Environments list
   * BUTTON_HOVER_COLOR
   * BUTTON_TEXT_COLOR
 
-
-## Demo
-
-http://slack-invite.docker.co.kr
-
 ## Reference
 
 * [Slack의 팀 초대를 자동화 할 수 있는 "Slack Invite Automation"](http://blog.outsider.ne.kr/1117)
