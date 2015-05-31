@@ -8,12 +8,13 @@ Click below button
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+### Screenshot
 
 [![imgur](http://i.imgur.com/7u7o0PT.png)]
 
 
 
-### Use Docker
+### If you want to use Docker then, 
 
 ```
 docker run -d \
