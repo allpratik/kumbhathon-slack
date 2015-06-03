@@ -4,7 +4,7 @@
 
 ### Deploy Heroku
 
-Click below button
+Click below button (No need to have verified account with CC)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
